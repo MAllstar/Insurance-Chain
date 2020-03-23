@@ -1,0 +1,42 @@
+.p-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.intro {
+	margin-bottom: 20px;
+}
+
+.title {
+	color: #333333;
+	margin-top: 0.20rem;
+	margin-bottom: 0.20rem;
+	text-align: center;
+	line-height: 1.1;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.media-left {
+	text-align: center;
+}
+
+.media-left img {
+	width: 140px;
+}
+
+.line {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.media-left {
+	padding-right: 0.30rem;
+}
+
+.media {
+	width: 45%;
+	margin: 10px;
+}
