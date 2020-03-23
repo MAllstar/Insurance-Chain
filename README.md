@@ -5,7 +5,7 @@
 2.用户端
 
 3.区块链浏览器
-![qqq](https://github.com/MAllstar/Insurance-Chain/blob/master/ChainComp/client/src/img/1.png)
+
 
 
 一 环境搭建：
