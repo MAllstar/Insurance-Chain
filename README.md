@@ -1,13 +1,15 @@
 ### "Insurance-Chain"  ——————————基于以太坊区块链平台去中心化的Dapp
 
 1.后台管理端（保险公司）
+
 2.用户端
+
 3.区块链浏览器
 
 
 一 环境搭建：
 
-1.安装Node.js
+1.安装Node.js 前端框架：React
 
 2.安装 Truffle ：npm install -g truffle
 
