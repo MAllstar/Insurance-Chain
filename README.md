@@ -6,7 +6,9 @@
 
 一 环境搭建：
 1.安装Node.js
+
 2.安装 Truffle ：npm install -g truffle
+
 3.安装Ganache
 
 
